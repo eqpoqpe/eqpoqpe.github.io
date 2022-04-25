@@ -1,0 +1,27 @@
+{
+    "display": {
+        "directory": "/",
+        "items": [
+            {
+                "topics": "Blog",
+                "directory": "/-"
+            },
+            {
+                "topics": "Share",
+                "directory": "/share"
+            },
+            {
+                "topics": "Library",
+                "directory": "/-/diary/library"
+            },
+            {
+                "topics": "API",
+                "directory": "/api"
+            },
+            {
+                "topics": "Project",
+                "directory": "/-/diary/project"
+            }
+        ]
+    }
+}
